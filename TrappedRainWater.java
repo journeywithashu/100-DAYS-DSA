@@ -1,4 +1,4 @@
-public class Practice {
+public class TrappedRainWater {
  public static int trappedRainwater(int height[]){
      int n = height.length;
     //calculate left max boundary - array
